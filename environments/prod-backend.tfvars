@@ -1,1 +1,1 @@
-name = "clstokes/multiple-envs-staging"
+name = "clstokes/multiple-envs-prod"
